@@ -1,7 +1,7 @@
 
   # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/Armand-MS)
+
 
 Hi 👋, I'm [@ArmandMS](https://github.com/Armand-MS). I'm a student at the EPITA engineering school
 
