@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Armand-MS
-- 👀 I'm a student at the EPITA engineering school
-
+<div style="text-align: center;">
+  <h1 align="center">Hi 👋, I'm ArmandMS</h1>
+  <h2 align="center">👀 I'm a student at the EPITA engineering school</h2>
+</div>
 
 
 <!---
