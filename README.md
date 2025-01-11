@@ -3,7 +3,7 @@
 
 
 
-Hi 👋, I'm [@ArmandMS][https://github.com/Armand-MS]. I'm a student at the EPITA engineering school
+Hi 👋, I'm [@ArmandMS](https://github.com/Armand-MS). I'm a student at the EPITA engineering school
 
 
 ##
