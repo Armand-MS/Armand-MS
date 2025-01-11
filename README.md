@@ -3,7 +3,7 @@
 
 
 
-Hi 👋, I'm [@ArmandMS](https://github.com/Armand-MS). I'm a student at the EPITA engineering school
+Hi 👋, I'm [@ArmandMS]([https://github.com/Armand-MS](https://github.com/Blood-Heritage/BH-2)). I'm a student at the EPITA engineering school
 
 
 ##
